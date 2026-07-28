@@ -206,4 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-*.csv
+*.csv 
+
+mapas_satelite/ 
+capturas_estereoscopia/ 

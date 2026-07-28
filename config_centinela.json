@@ -1,0 +1,19 @@
+{
+    "puerto": "",
+    "baudrate": 115200,
+    "altitud_inicial": 2240.0,
+    "offset_pitch": 0.0,
+    "offset_roll": 90.0,
+    "offset_yaw": 0.0,
+    "is_simulation": true,
+    "archivo_simulacion": "/home/enigma/Documentos/ORBITAL/PEU_2026/CENTINELA_I/log_vuelo_20260523_110132_OFICIAL_DE_VUELO.csv",
+    "invert_x": false,
+    "invert_y": false,
+    "invert_z": false,
+    "map_pitch": "X",
+    "map_roll": "Y",
+    "map_yaw": "Z",
+    "invert_pitch": false,
+    "invert_roll": false,
+    "invert_yaw": false
+}

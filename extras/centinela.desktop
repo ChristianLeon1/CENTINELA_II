@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Centinela 
+Comment=Estación Terrena - Telemetría Orbital Aerospace
+Exec=/home/enigma/Documentos/ORBITAL/PEU_2026/.venv/bin/python /home/enigma/Documentos/ORBITAL/PEU_2026/CENTINELA_I/main.py
+Path=/home/enigma/Documentos/ORBITAL/PEU_2026/CENTINELA_I/
+Icon=/home/enigma/Documentos/ORBITAL/PEU_2026/CENTINELA_I/logo.png
+Terminal=false
+Type=Application
+Categories=Utility;Development;Science;
